@@ -6,4 +6,4 @@
 2. Run `npm install` command in the project's folder path
 3. Run `npm run dev` to start development server
 
-Project uses https://daisyui.com/ as CDN links added in index.html file for css components.
+Project uses https://daisyui.com/ as CDN links added to index.html file.
